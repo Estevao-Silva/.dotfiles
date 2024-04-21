@@ -1,0 +1,9 @@
+[alias]
+	adog = log --all --decorate --oneline --graph
+	dog = log --decorate --oneline --graph
+	sta = stash -u
+[user]
+	email = 37160657+Estevao-Silva@users.noreply.github
+	name = Estevao-Silva
+[core]
+	editor = vim
