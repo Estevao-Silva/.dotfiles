@@ -4,7 +4,7 @@ export ZSH_CUSTOM=$DOTFILES/zsh
 
 ZSH_THEME="super-zen"
 
-plugins=(git vi-mode)
+plugins=(git vi-mode zsh-syntax-highlighting)
 
 INSERT_MODE_INDICATOR="%F{white}+%f"
 MODE_INDICATOR="%F{blue}+%f"
