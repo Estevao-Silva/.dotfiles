@@ -6,8 +6,8 @@ ZSH_THEME="super-zen"
 
 plugins=(git vi-mode zsh-syntax-highlighting)
 
-INSERT_MODE_INDICATOR="%F{white}+%f"
-MODE_INDICATOR="%F{blue}+%f"
+INSERT_MODE_INDICATOR="%F{green}●%f"
+MODE_INDICATOR="%F{blue}●%f"
 VI_MODE_SET_CURSOR=true
 VI_MODE_RESET_PROMPT_ON_MODE_CHANGE=true
 
