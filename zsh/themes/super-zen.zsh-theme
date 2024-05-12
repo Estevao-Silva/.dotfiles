@@ -1,7 +1,5 @@
 # Set required options
 #
-setopt prompt_subst
-
 # Load required modules
 #
 autoload -Uz vcs_info
